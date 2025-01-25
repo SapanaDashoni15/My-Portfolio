@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fitness Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://fitness-application-zpwp.vercel.app/",
+    "source": "https://github.com/SapanaDashoni15/FitnessApplication"
+  },
+  {
+    "title": "Algorithm Visualiser",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python", "Pygame", "SDL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SapanaDashoni15/Algo-Visualizer"
+  },
+  {
+    "title": "Anonymous messaging", 
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SapanaDashoni15/Anonymous-messaging---Icognito-Insights"
+  }
+]
