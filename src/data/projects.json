@@ -2,7 +2,7 @@
   {
     "title": "Fitness Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is an application for gym ownwers to attract coutomers online.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://fitness-application-zpwp.vercel.app/",
     "source": "https://github.com/SapanaDashoni15/FitnessApplication"
@@ -10,17 +10,17 @@
   {
     "title": "Algorithm Visualiser",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This project focuses on implementing sorting algorithms for better understanding",
     "skills": ["Python", "Pygame", "SDL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/SapanaDashoni15/Algo-Visualizer"
   },
   {
-    "title": "Anonymous messaging", 
+    "title": "Space Sync", 
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a real time chat application",
+    "skills": ["Node", "Express", "Next", "Socket.io"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/SapanaDashoni15/Anonymous-messaging---Icognito-Insights"
+    "source": "https://github.com/SapanaDashoni15/Space-Sync-Realtime-chat"
   }
 ]
