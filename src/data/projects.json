@@ -2,7 +2,7 @@
   {
     "title": "Fitness Application",
     "imageSrc": "projects/project.png",
-    "description": "This is an application for gym ownwers to attract coutomers online.",
+    "description": "This is an application for gym ownwers to attract costomers online.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://fitness-application-zpwp.vercel.app/",
     "source": "https://github.com/SapanaDashoni15/FitnessApplication"
@@ -10,7 +10,7 @@
   {
     "title": "Algorithm Visualiser",
     "imageSrc": "projects/project.png",
-    "description": "This project focuses on implementing sorting algorithms for better understanding",
+    "description": "This project focuses on implementing sorting algorithms for better understanding.",
     "skills": ["Python", "Pygame", "SDL"],
     "demo": "https://drive.google.com/file/d/1eh6e3QyLJMnjNumwWFVyK_7pWABD9a7K/view?usp=sharing",
     "source": "https://github.com/SapanaDashoni15/Algo-Visualizer"
@@ -18,7 +18,7 @@
   {
     "title": "Space Sync", 
     "imageSrc": "projects/project.png",
-    "description": "This is a real time chat application",
+    "description": "This is a real time chat application.",
     "skills": ["Node", "Express", "Next", "Socket.io"],
     "demo": "https://www.example.com",
     "source": "https://github.com/SapanaDashoni15/Space-Sync-Realtime-chat"
